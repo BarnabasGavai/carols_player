@@ -1,16 +1,12 @@
-# myaudioplayerapp
+# Carols Player
 
-A new Flutter project.
+## Description
+This is a simple audio player app that plays audio that is added to the assets folder. This project was built using Flutter Bloc and Bloc Architecture.
 
-## Getting Started
+## Sample images
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/BarnabasGavai/carols_player/assets/74435697/f033f5c2-078c-499b-8cc6-02dbaf7cdabc" height="700">
+<img src="https://github.com/BarnabasGavai/carols_player/assets/74435697/981977fe-b538-4bbc-8534-dda5ded9558c" height="700">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
